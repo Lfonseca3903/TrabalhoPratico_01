@@ -1,0 +1,22 @@
+.company {
+    
+    font-family: Oswald, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.row1 {
+    background-color: #6c757d;
+    border-bottom: 2px solid white ;
+
+}
+
+.headers {
+    font-family: Oswald, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.row2 {
+    background-color: #adb5bd;
+}
