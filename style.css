@@ -89,3 +89,19 @@ label {
 .inputform {
     padding: 30px;
 }
+
+.buttons {
+    background-color: #adb5bd;
+    border-bottom: 2px solid #adb5bd;
+    font-family: Oswald, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.homepage_button {
+    background-color: #6c757d;
+    border-bottom: 2px solid #6c757d;
+    font-family: Oswald, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
